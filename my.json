@@ -1,0 +1,11 @@
+{
+	"login.setPassword": "Hi, {{USER_NAME}}, thanks for confirming your email. Please create a password and log in to your account.",
+	"login.setPassword.placeholder": "Hi, ${user}, thanks for confirming your email. Please create a password and log in to your account.",
+  "login.setPassword.markup": "Hi, ${user}, thanks for confirming your email. Please <i>create a password</i> and log in to your account.",
+  "login.setPassword.case": "Hi, {{USER_NAME}}, thanks for confirming your email. Please create a PASSWORD and log in to your account.",
+  "login.setPassword.whitespace": "Hi, {{USER_NAME}}, thanks for confirming your email. \nPlease create a password and log in to your account.",
+  "login.setPassword.whitespace2": "Hi, {{USER_NAME}},          thanks for confirming your email. Please create a password and log in to your account.",
+  "login.setPassword": "Hi, {{USER_NAME}}, thanks for confirming your email! Please create a password and log in to your account.",
+  "html":"<p>Smartling <b>Professional</b> Services implements and manages Smartling solutions to seamlessly connect your content platforms with our Translation Cloud. Whether onboarding with Smartling for the first time, adding a new content source, or fine-tuning your current solution for evolving needs, our team is available to provide expertise on strategy and execution. </p><p>That’s valuable time back in your pocket, so you can focus on the bigger picture.</p>"
+}
+
